@@ -14,6 +14,7 @@ def returncreds():
     nasacreds = "api_key=" + nasacreds.strip("\n")
     return nasacreds
 
+
 # this is our main function
 def main():
     ## first grab credentials
